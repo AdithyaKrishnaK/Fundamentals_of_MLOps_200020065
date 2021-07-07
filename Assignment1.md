@@ -14,4 +14,4 @@ Basically, it is aggregating operations data from various divisions and then pre
 **Interpretable Machine Learning is another concept that has attracted lot of attention recently & is promoted by most of the MLOps frameworks. Explain what it means for a linear 
 regression model to be interpretable.**
 
-Interpretable Machine Learning tries to explain its outputs. For linear regression model, this would look like weights of different features.
+Interpretable Machine Learning tries to explain its outputs. This helps in easier debugging and estimating the reliability of the model. For linear regression model, this would look like weights of different features. The weights determine the contribution of a feature on the overall prediction. The higher the weights the higher is the importance of a feature and vice versa. The variance of estimated weights also plays a role, the more the variance is, the less important the feature is. All this can be put together using weight plots. Note that it is important to normalize the data before feeding it to the model. 

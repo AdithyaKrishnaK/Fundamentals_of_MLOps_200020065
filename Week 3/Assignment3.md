@@ -14,8 +14,8 @@ Feature engineering - polynomial (maximum quadratic) <br/>
 | Naive Bayes	                  | 0.3349 | 0.6592 |
 | Linear Discriminant Analysis    | 0.2327 | 0.2390 |
 
-![Consfusion Matrix](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Confusion Matrix")
-![Precision-Recall Plot](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Precision-Recall Plot")
+![Consfusion Matrix](https://github.com/AdithyaKrishnaK/Fundamentals_of_MLOps_200020065/blob/main/Week%203/confusion.png "Confusion Matrix")
+![Precision-Recall Plot](https://github.com/AdithyaKrishnaK/Fundamentals_of_MLOps_200020065/blob/main/Week%203/pr.png "Precision-Recall Plot")
 
 
 | Accuracy        | 0.9128 | 
